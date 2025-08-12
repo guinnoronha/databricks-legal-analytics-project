@@ -18,7 +18,10 @@ Este projeto demonstra como aplicar Ciência de Dados e Engenharia de Dados (uti
 
 ## DataViz
 
-<img width="2056" height="1151" alt="image" src="https://github.com/user-attachments/assets/b54d16ad-6078-436e-933a-a6aff334cb0f" />
+<img width="2056" height="1154" alt="image" src="https://github.com/user-attachments/assets/c080831d-f19f-40f9-bdbb-f82c48ceaa0d" />
+
+
+**Link:** https://app.powerbi.com/view?r=eyJrIjoiYTg5YTZkMmMtNWUxYy00ODMyLWFlNmMtODVlZWE0NzQzMzM1IiwidCI6ImI5MjAzNTQwLWJmYjEtNDdhMi05ZTJiLWQ3M2VjMGRlYmY0OSJ9
 
 
 ---
