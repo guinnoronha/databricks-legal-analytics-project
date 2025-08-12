@@ -4,6 +4,7 @@ Este projeto demonstra como aplicar Ciência de Dados e Engenharia de Dados (uti
 
 ## Sumário
 
+- [DataViz](#dataviz)
 - [Visão Geral](#visão-geral)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Arquitetura do Projeto](#arquitetura-do-projeto)
@@ -12,6 +13,13 @@ Este projeto demonstra como aplicar Ciência de Dados e Engenharia de Dados (uti
 - [Análises e Insights Chave](#análises-e-insights-chave)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Contato](#contato)
+
+---
+
+## DataViz
+
+<img width="2056" height="1151" alt="image" src="https://github.com/user-attachments/assets/b54d16ad-6078-436e-933a-a6aff334cb0f" />
+
 
 ---
 
